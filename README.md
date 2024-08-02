@@ -1,6 +1,11 @@
 # Classifier Calibration
 ## A survey on how to assess and improve predicted class probabilities
 
+
+> [!NOTE]
+>
+> This content is deprecated and has been moved to the repository [classifier-calibration.git](https://classifier-calibration.github.io/)
+
 Peter Flach,
 University of Bristol, UK,
 [Peter.Flach@bristol.ac.uk ](mailto:Peter.Flach@bristol.ac.uk),
